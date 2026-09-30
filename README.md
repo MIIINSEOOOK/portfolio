@@ -33,7 +33,7 @@
 - 인증 반려(`Rejected`)와 미션 진행 실패(`Failed`)를 같은 상태로 처리하던 구조를 분리해, 반려된 인증도 같은 진행 건에 재제출할 수 있도록 흐름을 수정
 - 동일 사용자가 같은 미션을 중복 진행하지 못하도록 동시성 처리 적용, 소유권·상태 기반 예외 처리 구현
 
-**Repository**: 팀 공유 비공개 저장소
+**Repository**: https://github.com/daechungnam/chungnam-mission-app
 **App**: [원스토어](https://m.onestore.co.kr/v2/ko-kr/app/0001009100)
 
 ---
@@ -50,7 +50,7 @@
 - stem별 활성 구간 분석, downbeat 기반 정렬, DSP 기반 구간 비교, MuQ 기반 유사도 검증, DSP·MuQ 결합 매칭 실험을 진행
 - AI Agent에는 반복 실행과 결과 정리를 맡기고, 실험 조건과 결과 채택 여부는 직접 확인
 
-**Repository**: 팀 공유 비공개 저장소 (공개 전환 협의 중, 확정되면 링크 추가 예정)
+**Repository**: https://github.com/uos-eceif-2026-bluerock/music_analysis_project
 
 ---
 
